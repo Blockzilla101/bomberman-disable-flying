@@ -1,8 +1,9 @@
 {
-  "name": "bomberman-disable-flying"
-  "displayName": "Bomberman - disable flying"
-  "author": "Blockzilla"
-  "description": "Disables flying in bomberman maps"
-  "version": "1"
-  "minGameVersion": "22272"
+  "name": "bomberman-disable-flying",
+  "displayName": "Bomberman - disable flying",
+  "author": "Blockzilla",
+  "description": "Disables flying in bomberman maps",
+  "version": "1",
+  "minGameVersion": "22272",
+  "hidden": true
 }
