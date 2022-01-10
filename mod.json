@@ -4,5 +4,6 @@
   "author": "Blockzilla",
   "description": "Disables flying in bomberman maps",
   "version": "1",
-  "hidden": true
+  "hidden": true,
+  "minGameVersion": "105"
 }
