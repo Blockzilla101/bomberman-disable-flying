@@ -5,5 +5,5 @@
   "description": "Disables flying in bomberman maps",
   "version": "1",
   "hidden": true,
-  "minGameVersion": "105"
+  "minGameVersion": "136"
 }
